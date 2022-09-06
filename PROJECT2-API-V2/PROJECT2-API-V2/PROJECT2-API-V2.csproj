@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>PROJECT2_API_V2</RootNamespace>
+  </PropertyGroup>
+
+
+</Project>
