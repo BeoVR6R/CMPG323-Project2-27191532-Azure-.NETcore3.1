@@ -10,6 +10,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using PROJECT2_API.Models;
 
 namespace PROJECT2_API
 {
@@ -26,6 +27,7 @@ namespace PROJECT2_API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddSwaggerGen(options => { options.SwaggerDoc("v2", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "MyTest Demo API", Version = "v2", Description = "Test demo for students", }); });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -46,6 +48,8 @@ namespace PROJECT2_API
             {
                 endpoints.MapControllers();
             });
+            app.UseSwagger(); 
+            app.UseSwaggerUI(options => options.SwaggerEndpoint("/swagger/v2/swagger.json", "MyTest Demo"));
         }
     }
 }
