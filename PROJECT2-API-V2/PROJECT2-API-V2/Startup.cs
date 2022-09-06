@@ -11,6 +11,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
+using JWTAuthentication.Authentication;
 
 namespace PROJECT2_API_V2
 {
@@ -27,6 +28,7 @@ namespace PROJECT2_API_V2
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer("name=ConnectionStrings:ConnStr"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
