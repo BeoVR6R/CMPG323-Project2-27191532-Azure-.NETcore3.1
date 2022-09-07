@@ -2,15 +2,22 @@
 Azure and .NET Core 3.1 API
 
 ## How to use the API
-1. 
+1. Head to the API website for a visual representation of all the commands. <a href="https://project2-api-v2.azurewebsites.net/swagger/index.html">PROJECT2_API_V2</a> 	
+2. Access is limited if a user is logged in.
+3. You will have to create an account first under ```Authentication``` and then ```register```.
+4. Create your ```Username``` and ```Password```.
+5. You may now navigate to the ```login``` command.
+6. Enter your details and the server should respond with a ```JWT Token```, which you need to access all the other requests.
 
 ## Project Progress
 1. Currently I have a local dB running ```SQL SERVER 19``` managed with ```SSMS```, linked with a ```.NET 3.1``` API.
 2. I will make use of ```swagger``` to test and document the API return codes and functionality.
 3. Next, I will try to link the cloud dB with the API, to test and populate the database with a ```add-migration``` ```.NET``` command.
-4. Managed to link the local visual studio code with a azure dB.
+4. Managed to link the local visual studio code with an ```Azure dB```.
+5. Added Controllers for , Zone, Device and Category.
 5. Fixed issue with the authentication.
-6. Login requests now receive a JWT token.
+6. Login requests now receive a ```JWT token```.
+7. Currently working on having the ```API``` hosted on ```Azure```.
 
 
 ## Branching Strategy 

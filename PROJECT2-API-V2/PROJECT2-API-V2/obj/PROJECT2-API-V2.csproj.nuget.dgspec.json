@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sjkru\\source\\repos\\CMPG323-Project2-27191532-Azure-.NETcore3.1\\PROJECT2-API-V2\\PROJECT2-API-V2\\PROJECT2-API-V2.csproj": {}
+    "C:\\Users\\sjkru\\source\\repos\\BeoVR6R\\CMPG323-Project2-27191532-Azure-.NETcore3.1\\PROJECT2-API-V2\\PROJECT2-API-V2\\PROJECT2-API-V2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sjkru\\source\\repos\\CMPG323-Project2-27191532-Azure-.NETcore3.1\\PROJECT2-API-V2\\PROJECT2-API-V2\\PROJECT2-API-V2.csproj": {
+    "C:\\Users\\sjkru\\source\\repos\\BeoVR6R\\CMPG323-Project2-27191532-Azure-.NETcore3.1\\PROJECT2-API-V2\\PROJECT2-API-V2\\PROJECT2-API-V2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sjkru\\source\\repos\\CMPG323-Project2-27191532-Azure-.NETcore3.1\\PROJECT2-API-V2\\PROJECT2-API-V2\\PROJECT2-API-V2.csproj",
+        "projectUniqueName": "C:\\Users\\sjkru\\source\\repos\\BeoVR6R\\CMPG323-Project2-27191532-Azure-.NETcore3.1\\PROJECT2-API-V2\\PROJECT2-API-V2\\PROJECT2-API-V2.csproj",
         "projectName": "PROJECT2-API-V2",
-        "projectPath": "C:\\Users\\sjkru\\source\\repos\\CMPG323-Project2-27191532-Azure-.NETcore3.1\\PROJECT2-API-V2\\PROJECT2-API-V2\\PROJECT2-API-V2.csproj",
+        "projectPath": "C:\\Users\\sjkru\\source\\repos\\BeoVR6R\\CMPG323-Project2-27191532-Azure-.NETcore3.1\\PROJECT2-API-V2\\PROJECT2-API-V2\\PROJECT2-API-V2.csproj",
         "packagesPath": "C:\\Users\\sjkru\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sjkru\\source\\repos\\CMPG323-Project2-27191532-Azure-.NETcore3.1\\PROJECT2-API-V2\\PROJECT2-API-V2\\obj\\",
+        "outputPath": "C:\\Users\\sjkru\\source\\repos\\BeoVR6R\\CMPG323-Project2-27191532-Azure-.NETcore3.1\\PROJECT2-API-V2\\PROJECT2-API-V2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

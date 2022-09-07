@@ -11,5 +11,6 @@
     <WebStackScaffolding_DbContextTypeFullName>PROJECT2_API_V2.Models.ConnectedOfficeContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
+    <NameOfLastUsedPublishProfile>C:\Users\sjkru\source\repos\BeoVR6R\CMPG323-Project2-27191532-Azure-.NETcore3.1\PROJECT2-API-V2\PROJECT2-API-V2\Properties\PublishProfiles\PROJECT2-API-V2 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
