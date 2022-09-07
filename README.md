@@ -9,7 +9,7 @@ Azure and .NET Core 3.1 API
 5. You may now navigate to the ```login``` command.
 6. Enter your details and the server should respond with a ```JWT Token```, which you need to access all the other requests.
 7. Copy the ```JWT Token``` string, navigate to the top of the webpage.
-8. Top-right, click ```Authorize``` and enter "Bearer 'token_here'".
+8. Top-right, click ```Authorize``` and enter "Bearer token_here".
 
 ## Project Progress
 1. Currently I have a local dB running ```SQL SERVER 19``` managed with ```SSMS```, linked with a ```.NET 3.1``` API.
