@@ -20,13 +20,14 @@ Azure and .NET Core 3.1 API
 5. Fixed issue with the authentication.
 6. Login requests now receive a ```JWT token```.
 7. Currently working on having the ```API``` hosted on ```Azure```.
-8. API is now hosted on ```Azure```.
+8. ```API``` is now hosted on ```Azure```.
 
 
 ## Branching Strategy 
 1. The main branch was used to deploy the initial API with swagger.
-2. The developer branch is used to introduce Authentication within the API requests.\
+2. The developer branch is used to introduce Authentication within the API requests.
 3. The developer branch was used to further expand the API.
+3. The developer branch was used to implement code from version 1.
 
 ## References
 1. <a href="https://www.tutorialsteacher.com/sqlserver/install-sql-server">Tutorials Teacher</a>
