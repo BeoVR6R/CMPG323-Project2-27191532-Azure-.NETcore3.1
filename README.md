@@ -2,7 +2,7 @@
 Azure and .NET Core 3.1 API
 
 ## How to use the API
-1. Head to the API website for a visual representation of all the commands. LINK: <a href="https://project2-api-v2.azurewebsites.net/swagger/index.html">PROJECT2_API_V2</a> 	
+1. Head to the API website for a visual representation of all the commands. ```LINK```: <a href="https://project2-api-v2.azurewebsites.net/swagger/index.html">PROJECT2_API_V2</a> 	
 2. Access is limited if a user is logged in.
 3. You will have to create an account first under ```Authentication``` and then ```register```.
 4. Create your ```Username``` and ```Password```.
