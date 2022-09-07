@@ -20,6 +20,7 @@ Azure and .NET Core 3.1 API
 5. Fixed issue with the authentication.
 6. Login requests now receive a ```JWT token```.
 7. Currently working on having the ```API``` hosted on ```Azure```.
+8. API is now hosted on ```Azure```.
 
 
 ## Branching Strategy 
