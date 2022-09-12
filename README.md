@@ -2,7 +2,8 @@
 Azure and .NET Core 3.1 API
 
 ## Azure API Manager Endpoints
-![alt text](https://imgur.com/O3R7hhh)
+![Screenshot](API-Manager-Enpoints.jpg)
+![Screenshot](API-Manager-Enpoints-2.jpg)
 
 ## How to use the API
 1. Head to the API website for a visual representation of all the commands. ```LINK```: <a href="https://project2-api-v2.azurewebsites.net/swagger/index.html">PROJECT2_API_V2</a> 	
