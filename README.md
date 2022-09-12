@@ -1,6 +1,9 @@
 # CMPG323-Project2-27191532-Azure-.NETcore3.1
 Azure and .NET Core 3.1 API
 
+## Azure API Manager Endpoints
+![alt text](https://imgur.com/O3R7hhh)
+
 ## How to use the API
 1. Head to the API website for a visual representation of all the commands. ```LINK```: <a href="https://project2-api-v2.azurewebsites.net/swagger/index.html">PROJECT2_API_V2</a> 	
 2. Access is very limited if a user is not logged in.
